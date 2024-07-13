@@ -28,7 +28,7 @@ D.  Follow the workflow instructions within the code for setting up your
     starting parameters: Block Height (aka tool setter height), & 
     Workpiece height.
 
-A demo video of how to use it is located at: 
+A demo video of how to use it is located at: https://youtu.be/RismR1t-wIw?si=kKtFvrBCFEKj85zh 
 
 Enjoy and be safe. 
 
